@@ -1,0 +1,336 @@
+1,"Carlos Silva",123456,carlos@email.com,"2048-01-15 08:30:00"
+2,"João Pereira",123456,joao@email.com,"2048-03-08 11:45:00"
+3,"Pedro Alves",123456,pedro@email.com,"2048-05-20 14:10:00"
+4,"Lucas Souza",123456,lucas@email.com,"2048-07-30 09:25:00"
+5,"Mateus Lima",123456,mateus@email.com,"2048-10-12 16:05:00"
+6,"Ana Costa",123456,ana@email.com,"2049-02-04 13:50:00"
+7,"Fernanda Rocha",123456,fernanda@email.com,"2049-04-16 10:20:00"
+8,"Mariana Gomes",123456,mariana@email.com,"2049-06-28 18:40:00"
+9,"Renata Dias",123456,renata@email.com,"2049-09-09 07:15:00"
+10,"Beatriz Melo",123456,beatriz@email.com,"2049-12-21 12:55:00"
+1,1,1,"2048-03-01 10:00:00"
+1,1,2,"2048-03-02 10:00:00"
+1,1,3,"2048-03-03 10:00:00"
+1,1,4,"2048-03-04 10:00:00"
+1,1,5,"2048-03-05 10:00:00"
+1,2,6,"2048-03-06 10:00:00"
+1,2,7,"2048-03-07 10:00:00"
+1,2,8,"2048-03-08 10:00:00"
+1,2,9,"2048-03-09 10:00:00"
+1,2,10,"2048-03-10 10:00:00"
+2,3,11,"2048-04-01 11:00:00"
+2,3,12,"2048-04-02 11:00:00"
+2,3,13,"2048-04-03 11:00:00"
+2,3,14,"2048-04-04 11:00:00"
+2,3,15,"2048-04-05 11:00:00"
+2,4,16,"2048-04-06 11:00:00"
+2,4,17,"2048-04-07 11:00:00"
+2,4,18,"2048-04-08 11:00:00"
+2,4,19,"2048-04-09 11:00:00"
+2,4,20,"2048-04-10 11:00:00"
+3,1,1,"2048-05-01 12:00:00"
+3,1,2,"2048-05-02 12:00:00"
+3,1,3,"2048-05-03 12:00:00"
+3,1,4,"2048-05-04 12:00:00"
+3,1,5,"2048-05-05 12:00:00"
+3,2,6,"2048-05-06 12:00:00"
+3,2,7,"2048-05-07 12:00:00"
+3,2,8,"2048-05-08 12:00:00"
+3,2,9,"2048-05-09 12:00:00"
+3,2,10,"2048-05-10 12:00:00"
+4,3,11,"2048-06-01 13:00:00"
+4,3,12,"2048-06-02 13:00:00"
+4,3,13,"2048-06-03 13:00:00"
+4,3,14,"2048-06-04 13:00:00"
+4,3,15,"2048-06-05 13:00:00"
+4,4,16,"2048-06-06 13:00:00"
+4,4,17,"2048-06-07 13:00:00"
+4,4,18,"2048-06-08 13:00:00"
+4,4,19,"2048-06-09 13:00:00"
+4,4,20,"2048-06-10 13:00:00"
+5,1,1,"2048-07-01 14:00:00"
+5,1,2,"2048-07-02 14:00:00"
+5,1,3,"2048-07-03 14:00:00"
+5,1,4,"2048-07-04 14:00:00"
+5,1,5,"2048-07-05 14:00:00"
+5,2,6,"2048-07-06 14:00:00"
+5,2,7,"2048-07-07 14:00:00"
+5,2,8,"2048-07-08 14:00:00"
+5,2,9,"2048-07-09 14:00:00"
+5,2,10,"2048-07-10 14:00:00"
+6,3,11,"2048-08-01 15:00:00"
+6,3,12,"2048-08-02 15:00:00"
+6,3,13,"2048-08-03 15:00:00"
+6,3,14,"2048-08-04 15:00:00"
+6,3,15,"2048-08-05 15:00:00"
+6,4,16,"2048-08-06 15:00:00"
+6,4,17,"2048-08-07 15:00:00"
+6,4,18,"2048-08-08 15:00:00"
+6,4,19,"2048-08-09 15:00:00"
+6,4,20,"2048-08-10 15:00:00"
+7,1,1,"2049-01-01 10:00:00"
+7,1,2,"2049-01-02 10:00:00"
+7,1,3,"2049-01-03 10:00:00"
+7,1,4,"2049-01-04 10:00:00"
+7,1,5,"2049-01-05 10:00:00"
+7,2,6,"2049-01-06 10:00:00"
+7,2,7,"2049-01-07 10:00:00"
+7,2,8,"2049-01-08 10:00:00"
+7,2,9,"2049-01-09 10:00:00"
+7,2,10,"2049-01-10 10:00:00"
+8,3,11,"2049-02-01 11:00:00"
+8,3,12,"2049-02-02 11:00:00"
+8,3,13,"2049-02-03 11:00:00"
+8,3,14,"2049-02-04 11:00:00"
+8,3,15,"2049-02-05 11:00:00"
+8,4,16,"2049-02-06 11:00:00"
+8,4,17,"2049-02-07 11:00:00"
+8,4,18,"2049-02-08 11:00:00"
+8,4,19,"2049-02-09 11:00:00"
+8,4,20,"2049-02-10 11:00:00"
+9,1,1,"2049-03-01 12:00:00"
+9,1,2,"2049-03-02 12:00:00"
+9,1,3,"2049-03-03 12:00:00"
+9,1,4,"2049-03-04 12:00:00"
+9,1,5,"2049-03-05 12:00:00"
+9,2,6,"2049-03-06 12:00:00"
+9,2,7,"2049-03-07 12:00:00"
+9,2,8,"2049-03-08 12:00:00"
+9,2,9,"2049-03-09 12:00:00"
+9,2,10,"2049-03-10 12:00:00"
+10,3,11,"2049-04-01 13:00:00"
+10,3,12,"2049-04-02 13:00:00"
+10,3,13,"2049-04-03 13:00:00"
+10,3,14,"2049-04-04 13:00:00"
+10,3,15,"2049-04-05 13:00:00"
+10,4,16,"2049-04-06 13:00:00"
+10,4,17,"2049-04-07 13:00:00"
+10,4,18,"2049-04-08 13:00:00"
+10,4,19,"2049-04-09 13:00:00"
+10,4,20,"2049-04-10 13:00:00"
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE usuarios (
+    id INTEGER PRIMARY KEY,
+    nome TEXT NOT NULL,
+    senha TEXT NOT NULL,
+    email TEXT NOT NULL COLLATE NOCASE UNIQUE, --adicionado UNIQUE
+    criado TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP --adcionado NOT NULL
+)STRICT;
+CREATE TABLE cursos (
+    id INTEGER PRIMARY KEY,
+    slug TEXT NOT NULL COLLATE NOCASE UNIQUE, --Adicionado COLLATE NO CASE
+    titulo TEXT NOT NULL UNIQUE,
+    descricao TEXT NOT NULL,
+    aulas INTEGER NOT NULL,
+    horas INTEGER NOT NULL,
+    criado TEXT DEFAULT CURRENT_TIMESTAMP
+)STRICT;
+CREATE TABLE aulas(
+    id INTEGER PRIMARY KEY,
+    curso_id INTEGER NOT NULL,
+    slug TEXT NOT NULL COLLATE NOCASE, --Declarar UNIQUE fora
+    titulo TEXT NOT NULL,
+    materia TEXT NOT NULL,
+    materia_slug TEXT NOT NULL,
+    seconds INTEGER NOT NULL,
+    video TEXT NOT NULL,
+    descricao TEXT NOT NULL,
+    ordem_aula INTEGER NOT NULL,
+    gratuito INTEGER NOT NULL DEFAULT 0 CHECK (gratuito IN (0,1)),--Esqueci do INTEGER
+    criado TEXT DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (curso_id, slug)
+    FOREIGN KEY (curso_id) REFERENCES cursos(id) --ON DELETE CASCADE --Lembrar de colocar NOT NULL na FK quando aplicável
+)STRICT;
+CREATE TABLE aulas_finalizadas(
+    user_id INTEGER NOT NULL,
+    curso_id INTEGER NOT NULL,
+    aula_id INTEGER NOT NULL,
+    finalizado TEXT DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (user_id, curso_id, aula_id),
+    FOREIGN KEY (user_id) REFERENCES usuarios(id) ON DELETE CASCADE,
+    FOREIGN KEY (curso_id) REFERENCES cursos(id),
+    FOREIGN KEY (aula_id) REFERENCES aulas(id) 
+)STRICT;
+CREATE TABLE certificados(
+    id TEXT PRIMARY KEY,
+    user_id INTEGER NOT NULL,
+    curso_id INTEGER NOT NULL,
+    finalizado TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (user_id, curso_id),
+    FOREIGN KEY (user_id) REFERENCES usuarios(id) ON DELETE CASCADE ,
+    FOREIGN KEY (curso_id) REFERENCES cursos(id) ON DELETE CASCADE 
+)STRICT;
+CREATE TABLE produtos (
+  id INTEGER PRIMARY KEY,
+  nome TEXT NOT NULL,
+  categoria TEXT,
+  preco INTEGER NOT NULL,
+  taxa_importacao INTEGER NOT NULL DEFAULT 0,
+  estoque INTEGER NOT NULL DEFAULT 0,
+  lancamento INTEGER DEFAULT 1 CHECK (lancamento IN (0, 1)),
+  criado TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+) STRICT;
+CREATE TABLE "users" (
+  "id" INTEGER PRIMARY KEY,
+  "name" TEXT NOT NULL,
+  "password" TEXT NOT NULL,
+  "email" TEXT NOT NULL COLLATE NOCASE UNIQUE,
+  "created" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+) STRICT;
+CREATE TABLE "courses" (
+  "id" INTEGER PRIMARY KEY,
+  "slug" TEXT NOT NULL COLLATE NOCASE UNIQUE,
+  "title" TEXT NOT NULL,
+  "description" TEXT NOT NULL,
+  "aulas" INTEGER NOT NULL,
+  "horas" INTEGER NOT NULL,
+  "created" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+) STRICT;
+CREATE TABLE "lessons" (
+  "id" INTEGER PRIMARY KEY,
+  "course_id" INTEGER NOT NULL,
+  "slug" TEXT NOT NULL COLLATE NOCASE,
+  "title" TEXT NOT NULL,
+  "materia" TEXT NOT NULL,
+  "materia_slug" TEXT NOT NULL,
+  "seconds" INTEGER NOT NULL,
+  "video" TEXT NOT NULL,
+  "description" TEXT NOT NULL,
+  "lesson_order" INTEGER NOT NULL,
+  "free" INTEGER NOT NULL DEFAULT 0 CHECK ("free" IN (0,1)),
+  "created" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY ("course_id") REFERENCES "courses" ("id"),
+  UNIQUE("course_id", "slug")
+) STRICT;
+CREATE TABLE "lessons_completed" (
+  "user_id" INTEGER NOT NULL,
+  "course_id" INTEGER NOT NULL,
+  "lesson_id" INTEGER NOT NULL,
+  "completed" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY ("user_id", "course_id", "lesson_id"),
+  FOREIGN KEY ("lesson_id") REFERENCES "lessons" ("id"),
+  FOREIGN KEY ("course_id") REFERENCES "courses" ("id"),
+  FOREIGN KEY ("user_id") REFERENCES "users" ("id") ON DELETE CASCADE
+) STRICT;
+CREATE TABLE "certificates" (
+  "id" TEXT PRIMARY KEY,
+  "user_id" INTEGER NOT NULL,
+  "course_id" INTEGER NOT NULL,
+  "completed" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  UNIQUE ("user_id", "course_id"),
+  FOREIGN KEY ("course_id") REFERENCES "courses" ("id"),
+  FOREIGN KEY ("user_id") REFERENCES "users" ("id") ON DELETE CASCADE
+) STRICT;
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE usuarios (
+    id INTEGER PRIMARY KEY,
+    nome TEXT NOT NULL,
+    senha TEXT NOT NULL,
+    email TEXT NOT NULL COLLATE NOCASE UNIQUE, --adicionado UNIQUE
+    criado TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP --adcionado NOT NULL
+)STRICT;
+CREATE TABLE cursos (
+    id INTEGER PRIMARY KEY,
+    slug TEXT NOT NULL COLLATE NOCASE UNIQUE, --Adicionado COLLATE NO CASE
+    titulo TEXT NOT NULL UNIQUE,
+    descricao TEXT NOT NULL,
+    aulas INTEGER NOT NULL,
+    horas INTEGER NOT NULL,
+    criado TEXT DEFAULT CURRENT_TIMESTAMP
+)STRICT;
+CREATE TABLE aulas(
+    id INTEGER PRIMARY KEY,
+    curso_id INTEGER NOT NULL,
+    slug TEXT NOT NULL COLLATE NOCASE, --Declarar UNIQUE fora
+    titulo TEXT NOT NULL,
+    materia TEXT NOT NULL,
+    materia_slug TEXT NOT NULL,
+    seconds INTEGER NOT NULL,
+    video TEXT NOT NULL,
+    descricao TEXT NOT NULL,
+    ordem_aula INTEGER NOT NULL,
+    gratuito INTEGER NOT NULL DEFAULT 0 CHECK (gratuito IN (0,1)),--Esqueci do INTEGER
+    criado TEXT DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (curso_id, slug)
+    FOREIGN KEY (curso_id) REFERENCES cursos(id) --ON DELETE CASCADE --Lembrar de colocar NOT NULL na FK quando aplicável
+)STRICT;
+CREATE TABLE aulas_finalizadas(
+    user_id INTEGER NOT NULL,
+    curso_id INTEGER NOT NULL,
+    aula_id INTEGER NOT NULL,
+    finalizado TEXT DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (user_id, curso_id, aula_id),
+    FOREIGN KEY (user_id) REFERENCES usuarios(id) ON DELETE CASCADE,
+    FOREIGN KEY (curso_id) REFERENCES cursos(id),
+    FOREIGN KEY (aula_id) REFERENCES aulas(id) 
+)STRICT;
+CREATE TABLE certificados(
+    id TEXT PRIMARY KEY,
+    user_id INTEGER NOT NULL,
+    curso_id INTEGER NOT NULL,
+    finalizado TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE (user_id, curso_id),
+    FOREIGN KEY (user_id) REFERENCES usuarios(id) ON DELETE CASCADE ,
+    FOREIGN KEY (curso_id) REFERENCES cursos(id) ON DELETE CASCADE 
+)STRICT;
+CREATE TABLE produtos (
+  id INTEGER PRIMARY KEY,
+  nome TEXT NOT NULL,
+  categoria TEXT,
+  preco INTEGER NOT NULL,
+  taxa_importacao INTEGER NOT NULL DEFAULT 0,
+  estoque INTEGER NOT NULL DEFAULT 0,
+  lancamento INTEGER DEFAULT 1 CHECK (lancamento IN (0, 1)),
+  criado TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+) STRICT;
+CREATE TABLE "users" (
+  "id" INTEGER PRIMARY KEY,
+  "name" TEXT NOT NULL,
+  "password" TEXT NOT NULL,
+  "email" TEXT NOT NULL COLLATE NOCASE UNIQUE,
+  "created" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+) STRICT;
+CREATE TABLE "courses" (
+  "id" INTEGER PRIMARY KEY,
+  "slug" TEXT NOT NULL COLLATE NOCASE UNIQUE,
+  "title" TEXT NOT NULL,
+  "description" TEXT NOT NULL,
+  "aulas" INTEGER NOT NULL,
+  "horas" INTEGER NOT NULL,
+  "created" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+) STRICT;
+CREATE TABLE "lessons" (
+  "id" INTEGER PRIMARY KEY,
+  "course_id" INTEGER NOT NULL,
+  "slug" TEXT NOT NULL COLLATE NOCASE,
+  "title" TEXT NOT NULL,
+  "materia" TEXT NOT NULL,
+  "materia_slug" TEXT NOT NULL,
+  "seconds" INTEGER NOT NULL,
+  "video" TEXT NOT NULL,
+  "description" TEXT NOT NULL,
+  "lesson_order" INTEGER NOT NULL,
+  "free" INTEGER NOT NULL DEFAULT 0 CHECK ("free" IN (0,1)),
+  "created" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY ("course_id") REFERENCES "courses" ("id"),
+  UNIQUE("course_id", "slug")
+) STRICT;
+CREATE TABLE "lessons_completed" (
+  "user_id" INTEGER NOT NULL,
+  "course_id" INTEGER NOT NULL,
+  "lesson_id" INTEGER NOT NULL,
+  "completed" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY ("user_id", "course_id", "lesson_id"),
+  FOREIGN KEY ("lesson_id") REFERENCES "lessons" ("id"),
+  FOREIGN KEY ("course_id") REFERENCES "courses" ("id"),
+  FOREIGN KEY ("user_id") REFERENCES "users" ("id") ON DELETE CASCADE
+) STRICT;
+CREATE TABLE "certificates" (
+  "id" TEXT PRIMARY KEY,
+  "user_id" INTEGER NOT NULL,
+  "course_id" INTEGER NOT NULL,
+  "completed" TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  UNIQUE ("user_id", "course_id"),
+  FOREIGN KEY ("course_id") REFERENCES "courses" ("id"),
+  FOREIGN KEY ("user_id") REFERENCES "users" ("id") ON DELETE CASCADE
+) STRICT;
